@@ -1,0 +1,9 @@
+# Never commit credentials
+aws-credentials.txt
+*.txt
+*.env
+.env*
+
+# OS files
+.DS_Store
+EOF
